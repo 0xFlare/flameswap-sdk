@@ -3,6 +3,7 @@ export { JSBI }
 
 export {
   BigintIsh,
+  Blockchain,
   ChainId,
   TradeType,
   Rounding,
